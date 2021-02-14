@@ -1,8 +1,8 @@
 import './App.css';
-import Header from './Header';
-import Sidebar from './Sidebar';
-import Feed from './Feed';
-import Widgets from './Widgets';
+import Header from './components/Header/Header';
+import Sidebar from './components/Sidebar/Sidebar';
+import Feed from './components/Feed/Feed';
+import Widgets from './components/Widgets/Widgets';
 
 function App() {
   return (
